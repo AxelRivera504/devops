@@ -21,7 +21,7 @@ Requisitos: WSL2 + Docker Desktop con Kubernetes activado (ver
 
 ```bash
 # Notas
-git clone git@github.com:AxelRivera504/notas-devops.git ~/notas-devops
+git clone git@github.com:AxelRivera504/devops.git ~/notas-devops
 
 # istioctl (misma versión)
 V=1.31.3
